@@ -1,1 +1,1 @@
-# please ignore mounting the drive onto google colaboratory if you are not using Google colaboratory for running and executing ths file.
+# Please ignore mounting the drive onto Google colab if you are not using Google colab for running and executing ths file.
